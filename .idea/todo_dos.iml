@@ -129,6 +129,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.0, rbenv: 2.1.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.0, rbenv: 2.1.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, rbenv: 2.1.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bower-rails (v0.9.2, rbenv: 2.1.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, rbenv: 2.1.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.7.11, rbenv: 2.1.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v4.0.5, rbenv: 2.1.5) [gem]" level="application" />
